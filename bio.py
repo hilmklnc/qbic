@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Bio file to be used in olskmer training prediction file
+bio file to be used in olskmer training prediction file
 """
 import itertools
 import pandas as pd
