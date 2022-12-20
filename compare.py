@@ -8,13 +8,11 @@ Created on Fri Dec 16 16:14:27 2022
 
 
 
-# ZNF24 --> Mus_musculus|NA|Unpublished|Zfp24.txt 
 
 # Homo_sapiens|NA|Shen2018|E2F1.txt --> bak 
 # python3 olskmer.py /home/hilmi/qbic/PBM_inputs/Homo_sapiens_NA_Shen2018_E2F1.txt /home/hilmi/qbic/ -k 6 -d 128 -g 0 -p 0
 
 # Homo_sapiens|NA|Shen2018|MYC-MAX.txt --> myc
-# Homo_sapiens|NA|Unpublished|GATA1.txt --> gata1
 
 import pandas as pd
 
